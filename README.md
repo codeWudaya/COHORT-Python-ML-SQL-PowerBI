@@ -2,7 +2,7 @@
 
 ## 🔗 Important Links
 
-- 🔧 GitHub Repository: [GitHub](https://github.com/)
+- 🔧 GitHub Repository: [GitHub]([https://github.com/](https://github.com/codeWudaya/ML-COHORT-01.git))
 - 📊 Kaggle Dataset: [Kaggle](https://www.kaggle.com/)
 - 🧬 UCI Machine Learning Repository: [UCI ML Repo](https://archive.ics.uci.edu/ml/index.php)
 
